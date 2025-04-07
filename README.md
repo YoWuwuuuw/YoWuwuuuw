@@ -13,8 +13,8 @@
 ## 🙋 About Me
 
 <p>&emsp;&emsp;Hi, I'm YoWuwuuuw, a sophomore majoring in Software Engineering in Computer Science.</p>
-<p>&emsp;&emsp;Passionate about Computer Science and the IT industry, aspiring to become a proficient backend developer and software architect.</p>
-<p>&emsp;&emsp;Enthusiastic about open source and currently delving into microservice middleware technologies like Seata, RocketMQ, and Nacos.</p>
+<p>&emsp;&emsp;Passionate about Computer Science, aspiring to be a backend developer and software architect.</p>
+<p>&emsp;&emsp;Enthusiastic about open source, delving into microservice middleware technologies like Seata, RocketMQ, and Nacos.</p>
 
 </td></tr>
 
