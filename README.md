@@ -1,10 +1,6 @@
 # Hi, I'm YoWuwuuuw <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<div>
-  <a href="https://blog.sunguoqi.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome to my profile!&center=false&size=27" />
-  </a>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&size=22&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <table>
   
@@ -32,10 +28,11 @@
   
 ## 📃 Open Source Experience & Working on
 
+<p>&emsp;&emsp;Metadata support for seata load balancing [https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-discovery-metadata]</p>
+<p>&emsp;&emsp;Support redis config center [https://github.com/apache/incubator-seata/pull/7305]</p>
+<p>&emsp;&emsp;Enhance seata ci configuration [https://github.com/apache/incubator-seata/pull/7270]</p>
 <p>&emsp;&emsp;Optimize sql parsing logic [https://github.com/apache/incubator-seata/pull/7219]</p>
 <p>&emsp;&emsp;Load balancing cache in POP consumption mode [https://github.com/apache/rocketmq/pull/9131]</p>
-<p>&emsp;&emsp;Enhance seata ci configuration [https://github.com/apache/incubator-seata/pull/7270]</p>
-<p>&emsp;&emsp;Metadata support for seata load balancing [https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-discovery-metadata]</p>
 
 </td></tr>
 
