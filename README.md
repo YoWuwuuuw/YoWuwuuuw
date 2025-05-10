@@ -28,7 +28,7 @@
   
 ## 📃 Open Source Experience & Working on
 
-<p>&emsp;&emsp;[GSoC 2025]Metadata support for seata load balancing [https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-discovery-metadata]</p>
+<p>&emsp;&emsp;[GSoC 2025]Load balancing metadata support[https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-discovery-metadata]</p>
 <p>&emsp;&emsp;[To be merged]Support redis config center [https://github.com/apache/incubator-seata/pull/7305]</p>
 <p>&emsp;&emsp;[To be merged]Enhance seata ci configuration [https://github.com/apache/incubator-seata/pull/7270]</p>
 <p>&emsp;&emsp;[To be merged]Load balancing cache in POP consumption mode [https://github.com/apache/rocketmq/pull/9131]</p>
