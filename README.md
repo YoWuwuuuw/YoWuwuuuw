@@ -18,7 +18,7 @@
 
 ## 🛠️ Technology Stack & Interest Skill
 <p>&emsp;&emsp;Java,  Go,  Python,  Git,  Sql,  Lua ...</p>
-<p>&emsp;&emsp;Mysql,  Redis,  Postgresql ...</p>
+<p>&emsp;&emsp;Mysql,  Redis,  etcd,  Postgresql ...</p>
 <p>&emsp;&emsp;Spring,  Seata,  Rocketmq,  Rabbitmq,  Kafka ...</p>
 <p>&emsp;&emsp;Docker,  Kubernetes,  Jenkins,  Github actions ...</p>
 
@@ -28,11 +28,11 @@
   
 ## 📃 Open Source Experience & Working on
 
-<p>&emsp;&emsp;Metadata support for seata load balancing [https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-discovery-metadata]</p>
-<p>&emsp;&emsp;Support redis config center [https://github.com/apache/incubator-seata/pull/7305]</p>
-<p>&emsp;&emsp;Enhance seata ci configuration [https://github.com/apache/incubator-seata/pull/7270]</p>
-<p>&emsp;&emsp;Optimize sql parsing logic [https://github.com/apache/incubator-seata/pull/7219]</p>
-<p>&emsp;&emsp;Load balancing cache in POP consumption mode [https://github.com/apache/rocketmq/pull/9131]</p>
+<p>&emsp;&emsp;[GSoC 2025]Metadata support for seata load balancing [https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-discovery-metadata]</p>
+<p>&emsp;&emsp;[To be merged]Support redis config center [https://github.com/apache/incubator-seata/pull/7305]</p>
+<p>&emsp;&emsp;[To be merged]Enhance seata ci configuration [https://github.com/apache/incubator-seata/pull/7270]</p>
+<p>&emsp;&emsp;[To be merged]Load balancing cache in POP consumption mode [https://github.com/apache/rocketmq/pull/9131]</p>
+<p>&emsp;&emsp;[merged]Optimize sql parsing logic [https://github.com/apache/incubator-seata/pull/7219]</p>
 
 </td></tr>
 
