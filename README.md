@@ -38,7 +38,7 @@ Hi, I'm **YoWuwuuuw**, a sophomore majoring in Software Engineering.
 
 ## 📃 Contributions & Working on
 ### GSoC2025
-- Metadata support for service registry and loadbalance [#gsoc-discovery-metadata](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-discovery-metadata)
+- Metadata support for service registry and loadbalance [#7533](https://github.com/apache/incubator-seata/pull/7533)
 - Enhance close() logic of discovery module [#7375](https://github.com/apache/incubator-seata/pull/7375)
 - Add checks to RegistryFactory [#7345](https://github.com/apache/incubator-seata/pull/7345)
 
