@@ -39,17 +39,19 @@ Hi, I'm **YoWuwuuuw**, a sophomore majoring in Software Engineering.
 ## 📃 Contributions & Working on
 ### GSoC2025
 - Metadata support for service registry and loadbalance [#7533](https://github.com/apache/incubator-seata/pull/7533)
-- Enhance close() logic of discovery module [#7375](https://github.com/apache/incubator-seata/pull/7375)
+  - meta-support for nacos [branch](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-metadata-support-nacos)
+  - meta-support for consul [branch](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-metadata-support-consul)
+- Configurable and Extensible Routing Filter Chain [#7550](https://github.com/apache/incubator-seata/pull/7550)
+- Enhance close() logic [#7375](https://github.com/apache/incubator-seata/pull/7375)
 - Add checks to RegistryFactory [#7345](https://github.com/apache/incubator-seata/pull/7345)
 
 ---
 
 ### Other
-- Redis config center support [#7305](https://github.com/apache/incubator-seata/pull/7305)
 - Support HTTP process thread pool [#7415](https://github.com/apache/incubator-seata/pull/7415)
 - Optimize SQL parsing logic [#7219](https://github.com/apache/incubator-seata/pull/7219)
-- Enhance CI configuration [#7270](https://github.com/apache/incubator-seata/pull/7270)  
-- POP mode load balancing cache [#9131](https://github.com/apache/rocketmq/pull/9131)
+- Enhance CI configuration [#7270](https://github.com/apache/incubator-seata/pull/7270)
+- Redis config center support [#7305](https://github.com/apache/incubator-seata/pull/7305)
 
 </td></tr>
 
