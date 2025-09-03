@@ -39,11 +39,11 @@ Hi, I'm **YoWuwuuuw**, a sophomore majoring in Software Engineering.
 ## 📃 Contributions & Working on
 ### GSoC2025
 - Metadata support for service registry and loadbalance [#7533](https://github.com/apache/incubator-seata/pull/7533)
-  - meta-support for nacos [branch](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-metadata-support-nacos)
-  - meta-support for consul [branch](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-metadata-support-consul)
+  - Meta-support for nacos [branch](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-metadata-support-nacos)
+  - Meta-support for consul [branch](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-metadata-support-consul)
+  - Meta-support for eureka [branch](https://github.com/YoWuwuuuw/incubator-seata/tree/gsoc-metadata-support-eureka)
 - Configurable and Extensible Routing Filter Chain [#7550](https://github.com/apache/incubator-seata/pull/7550)
-- Enhance close() logic [#7375](https://github.com/apache/incubator-seata/pull/7375)
-- Add checks to RegistryFactory [#7345](https://github.com/apache/incubator-seata/pull/7345)
+- Enhance close() logic [#7375](https://github.com/apache/incubator-seata/pull/7375), Add checks to RegistryFactory [#7345](https://github.com/apache/incubator-seata/pull/7345)
 
 ---
 
