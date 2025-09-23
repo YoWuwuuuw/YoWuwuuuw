@@ -6,7 +6,7 @@
   
 ## 🙋 About Me
 
-Hi, I'm **YoWuwuuuw**, a sophomore majoring in Software Engineering.
+Hi, I'm **YoWuwuuuw**, a junior majoring in Software Engineering, seata committer.
 
 - 🎯 Passionate about Computer Science, especially backend development and system design.  
 - 💻 Aspiring to become a backend engineer and software architect.  
